@@ -4,6 +4,8 @@ Note: some of the formatting does not render properly in "View" mode (which also
 
 These notebooks are a work in progress and may be updated at any time.
 
+**PART 1: Python programming concepts**
+
 **Introduction to Python**:   [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week2_Intro-to-Python.ipynb) |  [Download](Week2_Intro-to-Python.ipynb) 
 - Using Python as a fancy calculator
 - Communicating with Python in grammar it can understand
@@ -22,7 +24,7 @@ These notebooks are a work in progress and may be updated at any time.
 - Help! Get me out of here!
 - Plotting variables
 
-**Logic and Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Logic-Loops.ipynb) |  [Download]( Week4_Logic-Loops.ipynb)
+**Logic and Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Logic-Loops.ipynb) |  [Download](Week4_Logic-Loops.ipynb)
 - Making comparisons
 - Using logic (if)
 - On the other hand... (else)
@@ -31,7 +33,7 @@ These notebooks are a work in progress and may be updated at any time.
 - Doing things over and over... and over... and over... (for loops)
 - Combining logic and loops
 
-**Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Functions.ipynb ) |  [Download]( Week5_Functions.ipynb)
+**Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Functions.ipynb ) |  [Download](Week5_Functions.ipynb)
 - Functions intro
 - Local variables: hidden from the world
 - Saving and using function output
@@ -40,3 +42,30 @@ These notebooks are a work in progress and may be updated at any time.
 - Providing multiple input arguments
 - Defining default values
 - Side Note: Making plots pretty
+
+**PART 1: Modelling concepts and application**
+
+**The Bathtub**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_TheBathtub.ipynb) |  [Download](Week6_TheBathtub.ipynb)
+- Variables
+- Solving the equations
+- Saving values along the way
+- Sensitivity analysis
+- Adding multiple curves to one plot
+
+**Daisyworld**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week7_Daisyworld.ipynb) |  [Download](Week7_Daisyworld.ipynb)
+- The effect of daisies on surface temperature
+- The effect of surface temperature on daisies
+- Building a model for Daisyworld
+- Testing the sensitivity of the model to different parameters
+
+**Population**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week8_Population-Model.ipynb) |  [Download](Week8_Population-Model.ipynb)
+- Simple exponential growth
+- S-shaped growth and carrying capacity
+- Overshoot and collapse
+- Replenishing resources
+
+**Global atmosphere-ocean carbon cycle**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week9_Carbon-Cycle.ipynb) |  [Download](Week9_Carbon-Cycle.ipynb)
+- Fluxes and reservoirs
+- Comparing to Observations
+- The "missing" sink
+- Varying Fossil Fuels
