@@ -12,9 +12,5 @@ These notebooks are a work in progress and may be updated at any time.
 - Communicating with other humans
 - The perils of division in programming
 - Adding words to the output
-- Special characters
-- Saving strings in variables
-- Combining strings
-- Combining strings with numbers
 - Understanding errors
 
