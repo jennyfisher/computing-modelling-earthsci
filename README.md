@@ -30,7 +30,7 @@ You are more than welcome to use these notebooks for any purpose, and to modify 
 I am also conducting some research around this work and its effects on student perceptions of computing. If you are teaching undergraduates and are potentially interested in participating, please contact me to learn more.
 
 ### Contact
-Jenny Fisher, University of Wollongong<br>
+**Jenny Fisher**, University of Wollongong<br>
 www.uow.edu.au/~jennyf<br>
 jennyf@uow.edu.au<br>
 [@AtmosJennyF](https://twitter.com/AtmosJennyF)
