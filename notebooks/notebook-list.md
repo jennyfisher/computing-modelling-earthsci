@@ -14,3 +14,10 @@ These notebooks are a work in progress and may be updated at any time.
 - Adding words to the output
 - Understanding errors
 
+**Arrays and Plots**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week3_Arrays-Plots.ipynb) |  [Download](Week3_Arrays-Plots.ipynb)
+- Keeping track of many values at once
+- Making simple arrays from a list of numbers
+- Using arrays to do stuff
+- The lazy person's guide to making arrays
+- Help! Get me out of here!
+- Plotting variables
