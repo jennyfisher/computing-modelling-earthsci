@@ -6,7 +6,7 @@ Note: some of the formatting does not render properly in "View" mode (which also
 
 These notebooks are a work in progress and may be updated at any time.
 
-**PART 1: Python programming concepts**
+**PART 1: PYTHON PROGRAMMING CONCEPTS**
 
 **Introduction to Python**:   [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week2_Intro-to-Python.ipynb) |  [Download](Week2_Intro-to-Python.ipynb) 
 - Using Python as a fancy calculator
@@ -45,7 +45,7 @@ These notebooks are a work in progress and may be updated at any time.
 - Defining default values
 - Side Note: Making plots pretty
 
-**PART 1: Modelling concepts and application**
+**PART 2: MODELLING CONCEPTS AND APPLICATION**
 
 **The Bathtub**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_TheBathtub.ipynb) |  [Download](Week6_TheBathtub.ipynb)
 - Variables
