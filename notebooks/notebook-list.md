@@ -45,7 +45,7 @@ These notebooks are a work in progress and may be updated at any time.
 - Defining default values
 - Side Note: Making plots pretty
 
-**PART 2: MODELLING CONCEPTS AND APPLICATION**
+**PART 2: MODELLING CONCEPTS AND APPLICATION** 
 
 **The Bathtub**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_TheBathtub.ipynb) |  [Download](Week6_TheBathtub.ipynb)
 - Variables
