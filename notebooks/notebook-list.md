@@ -21,3 +21,22 @@ These notebooks are a work in progress and may be updated at any time.
 - The lazy person's guide to making arrays
 - Help! Get me out of here!
 - Plotting variables
+
+**Logic and Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Logic-Loops.ipynb) |  [Download]( Week4_Logic-Loops.ipynb)
+- Making comparisons
+- Using logic (if)
+- On the other hand... (else)
+- If not that, how about this? (elif)
+- Getting the order right
+- Doing things over and over... and over... and over... (for loops)
+- Combining logic and loops
+
+**Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Functions.ipynb ) |  [Download]( Week5_Functions.ipynb)
+- Functions intro
+- Local variables: hidden from the world
+- Saving and using function output
+- Functions with arrays
+- Returning multiple ouptut values
+- Providing multiple input arguments
+- Defining default values
+- Side Note: Making plots pretty
