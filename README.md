@@ -1,5 +1,3 @@
-[Welcome](README.md) | [Notebooks](notebooks/notebook-list.md)
-
 ## Welcome
 
 This page hosts a set of Jupyter notebooks designed to teach introductory computing and modelling concepts using the Python programming language (currently Python 2). The notebooks were developed specifically for first year undergraduate students in earth and environmental sciences with no prior experience in programming or computer science.
