@@ -1,4 +1,4 @@
-[Welcome](README.md) | [Notebooks](notebooks/notebook-list.md)
+Welcome | [Notebooks](notebooks/notebook-list.md)
 
 ## Welcome
 
