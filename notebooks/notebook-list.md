@@ -26,13 +26,19 @@ These notebooks are a work in progress and may be updated at any time.
 - Help! Get me out of here!
 - Plotting variables
 
-**Logic and Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Logic-Loops.ipynb) |  [Download](Week4_Logic-Loops.ipynb)
+**Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Loops.ipynb) |  [Download](Week4_Loops.ipynb)
+- Doing things over and over... and over... and over...
+- for loops
+- for loops with arrays: taking values *out*
+- for loops with arrays: putting values *in*
+
+**Logic**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Logic.ipynb) |  [Download](Week5_Logic.ipynb)
 - Making comparisons
 - Using logic (if)
 - On the other hand... (else)
 - If not that, how about this? (elif)
 - Getting the order right
-- Doing things over and over... and over... and over... (for loops)
+- Doing more than printing
 - Combining logic and loops
 
 **Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Functions.ipynb ) |  [Download](Week5_Functions.ipynb)
