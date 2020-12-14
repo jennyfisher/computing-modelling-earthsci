@@ -8,7 +8,8 @@ These notebooks are a work in progress and may be updated at any time.
 
 **PART 1: PYTHON PROGRAMMING CONCEPTS**
 
-**Introduction to Python**:   [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week2_Intro-to-Python.ipynb) |  [Download](Week2_Intro-to-Python.ipynb) 
+**Introduction to Python**:   [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week2_Intro-to-Python.ipynb) |  [Download](Week2_Intro-to-Python.ipynb) <br>
+**Exercises**: View | Download
 - Using Python as a fancy calculator
 - Communicating with Python in grammar it can understand
 - Saving time by saving values for later
