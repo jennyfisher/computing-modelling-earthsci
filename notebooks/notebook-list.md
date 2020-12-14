@@ -15,7 +15,6 @@ These notebooks are a work in progress and may be updated at any time.
 - Saving time by saving values for later
 - Getting the order right
 - Communicating with other humans
-- The perils of division in programming
 - Adding words to the output
 - Understanding errors
 
