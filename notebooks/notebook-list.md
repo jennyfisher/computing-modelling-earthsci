@@ -2,7 +2,7 @@
 
 Student versions of the notebooks can be found here. For solutions, email jennyf@uow.edu.au.
 
-Note: some of the formatting does not render properly in "View" mode (which also does not allow you to interactively run the code cells). A better option is to download the notebook files and open using Jupyter Notebook, which you can get by installing [Anaconda](https://www.anaconda.com/download/) (Python 2 version).
+Note: some of the formatting does not render properly in "View" mode (which also does not allow you to interactively run the code cells). A better option is to download the notebook files and open using Jupyter Notebook, which you can get by installing [Anaconda](https://www.anaconda.com/download/) (Python 3 version).
 
 These notebooks are a work in progress and may be updated at any time.
 
@@ -18,7 +18,8 @@ These notebooks are a work in progress and may be updated at any time.
 - Adding words to the output
 - Understanding errors
 
-**Arrays and Plots**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week3_Arrays-Plots.ipynb) |  [Download](Week3_Arrays-Plots.ipynb)
+**Arrays and Plots**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week3_Arrays-Plots.ipynb) |  [Download](Week3_Arrays-Plots.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week3_Exercises.ipynb) |  [Download](Week3_Exercises.ipynb)
 - Keeping track of many values at once
 - Making simple arrays from a list of numbers
 - Using arrays to do stuff
@@ -26,13 +27,15 @@ These notebooks are a work in progress and may be updated at any time.
 - Help! Get me out of here!
 - Plotting variables
 
-**Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Loops.ipynb) |  [Download](Week4_Loops.ipynb)
+**Loops**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Loops.ipynb) |  [Download](Week4_Loops.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week4_Exercises.ipynb) |  [Download](Week4_Exercises.ipynb)
 - Doing things over and over... and over... and over...
 - for loops
 - for loops with arrays: taking values *out*
 - for loops with arrays: putting values *in*
 
-**Logic**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Logic.ipynb) |  [Download](Week5_Logic.ipynb)
+**Logic**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Logic.ipynb) |  [Download](Week5_Logic.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Exercises.ipynb) |  [Download](Week5_Exercises.ipynb)
 - Making comparisons
 - Using logic (if)
 - On the other hand... (else)
@@ -41,8 +44,10 @@ These notebooks are a work in progress and may be updated at any time.
 - Doing more than printing
 - Combining logic and loops
 
-**Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week5_Functions.ipynb ) |  [Download](Week5_Functions.ipynb)
+**Functions**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_Functions.ipynb ) |  [Download](Week6_Functions.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_Exercises.ipynb) |  [Download](Week6_Exercises.ipynb)
 - Functions intro
+- Just like functions in maths
 - Local variables: hidden from the world
 - Saving and using function output
 - Functions with arrays
@@ -53,26 +58,31 @@ These notebooks are a work in progress and may be updated at any time.
 
 **PART 2: MODELLING CONCEPTS AND APPLICATION** 
 
-**The Bathtub**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week6_TheBathtub.ipynb) |  [Download](Week6_TheBathtub.ipynb)
+**The Bathtub**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week7_TheBathtub.ipynb) |  [Download](Week7_TheBathtub.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week7_Exercises.ipynb) |  [Download](Week7_Exercises.ipynb)
 - Variables
 - Solving the equations
 - Saving values along the way
 - Sensitivity analysis
+- Adding labels and legends
 - Adding multiple curves to one plot
 
-**Daisyworld**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week7_Daisyworld.ipynb) |  [Download](Week7_Daisyworld.ipynb)
+**Daisyworld**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Daisyworld.ipynb) |  [Download](Daisyworld.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Daisyworld_Exercises.ipynb) |  [Download](Daisyworld_Exercises.ipynb)
 - The effect of daisies on surface temperature
 - The effect of surface temperature on daisies
 - Building a model for Daisyworld
 - Testing the sensitivity of the model to different parameters
 
-**Population**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week8_Population-Model.ipynb) |  [Download](Week8_Population-Model.ipynb)
+**Population**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Population.ipynb) |  [Download](Population.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Population_Exercises.ipynb) |  [Download](Population_Exercises.ipynb)
 - Simple exponential growth
 - S-shaped growth and carrying capacity
 - Overshoot and collapse
 - Replenishing resources
 
-**Global atmosphere-ocean carbon cycle**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Week9_Carbon-Cycle.ipynb) |  [Download](Week9_Carbon-Cycle.ipynb)
+**Global atmosphere-ocean carbon cycle**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/Carbon-Cycle.ipynb) |  [Download](Carbon-Cycle.ipynb) <br>
+**Exercises**: [View](http://nbviewer.jupyter.org/github/jennyfisher/computing-modelling-earthsci/blob/master/notebooks/CarbonCycle_Exercises.ipynb) |  [Download](CarbonCycle_Exercises.ipynb)
 - Fluxes and reservoirs
 - Comparing to Observations
 - The "missing" sink
