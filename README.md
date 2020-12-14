@@ -8,9 +8,9 @@ The notebooks and some brief descriptions of their contents are available to **[
 
 ### Background
 
-These exercises were designed specifically to be part of *Earth's Interconnected Spheres*, a first-year core subject in the [School of Earth and Environmental Sciences](https://smah.uow.edu.au/sees/index.html) at the [University of Wollongong](https://www.uow.edu.au/index.html). They assume no prior programming knowledge and no mathematics beyond high-school level algebra. Examples used in the notebooks are drawn from topics covered in the lecture component of the subject. Students complete the notebooks during 3-hour computer labs with teaching staff present to answer questions and explain concepts.
+These exercises were designed specifically to be part of *Earth's Interconnected Spheres*, a first-year core subject in the earth and environmental science degrees at the [University of Wollongong](https://www.uow.edu.au/index.html). They assume no prior programming knowledge and no mathematics beyond high-school level algebra. Examples used in the notebooks are drawn from topics covered in the lecture component of the subject. Students complete the notebooks during 3-hour computer labs with teaching staff present to answer questions and explain concepts.
 
-The lab component of the subject is split into three 4-week blocks:
+The lab component of the subject is split into three blocks:
 1. Python programming concepts
 2. Modelling concepts and application
 3. Group projects
@@ -33,6 +33,6 @@ I am also conducting some research around this work and its effects on student p
 
 ### Contact
 **Jenny Fisher**, University of Wollongong<br>
-www.uow.edu.au/~jennyf<br>
+https://jennyfisher.github.io/<br>
 jennyf@uow.edu.au<br>
 [@AtmosJennyF](https://twitter.com/AtmosJennyF)
