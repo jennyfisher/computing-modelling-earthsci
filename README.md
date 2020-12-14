@@ -2,7 +2,7 @@
 
 ## Welcome
 
-This page hosts a set of Jupyter notebooks designed to teach introductory computing and modelling concepts using the Python programming language (currently Python 2). The notebooks were developed specifically for first year undergraduate students in earth and environmental sciences with no prior experience in programming or computer science.
+This page hosts a set of Jupyter notebooks designed to teach introductory computing and modelling concepts using the Python programming language (now in Python 3). The notebooks were developed specifically for first year undergraduate students in earth and environmental sciences with no prior experience in programming or computer science.
 
 The notebooks and some brief descriptions of their contents are available to **[view or download](notebooks/notebook-list.md)**.
 
@@ -15,7 +15,7 @@ The lab component of the subject is split into three blocks:
 2. Modelling concepts and application
 3. Group projects
 
-Parts 1 and 2 use the notebooks provided here. For Part 3, students build on the models developed in Part 2.
+Parts 1 and 2 use the notebooks provided here. For Part 3, students build on the models developed in Part 2. While designed to be taught in the order shown on the [notebooks](notebooks/notebook-list.md) page, the three model applications (Daisyworld, Population, and Carbon Cycle) can be taught in any order or individually. The carbon cycle does expect a relatively high level of comfort with the modelling concepts and may require adjustment if students attempt this one without the other two.
 
 ### Acknowledgements
 
@@ -24,6 +24,8 @@ The notebooks in Part 1 have largely been adapted from Gerard Gorman's [Introduc
 The notebooks in Part 2 are based on Dave Bice's [Exploring the Dynamics of Earth Systems](http://www3.geosc.psu.edu/~dmb53/DaveSTELLA/entrance.htm), which uses the STELLA software program to teach modelling concepts. Here, some of these models have been translated from STELLA to Python and simplified to be appropriate for first year students.
 
 Sincere thanks to both of these individuals for making their work available online.
+
+Thanks also to the many EESC102 students who have served as the guinea pigs for these materials and helped me refine them to the most necessary concepts over the years.
 
 ### Reuse, modification, and attribution
 
